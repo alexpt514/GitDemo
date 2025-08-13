@@ -1,0 +1,1 @@
+mvn test -Dcucumber.filter.tags="@automation1 or @automation2" -Dbrowser=firefox
